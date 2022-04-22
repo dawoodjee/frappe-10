@@ -41,7 +41,7 @@ zxcvbn-python==4.4.24
 unittest-xml-reporting==2.2.0
 oauthlib==2.1.0
 PyJWT==1.6.4
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 openpyxl==2.5.10
 pyotp==2.2.7
 pyqrcode==1.2.1
